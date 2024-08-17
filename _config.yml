@@ -20,9 +20,9 @@
 
 title: Deliberate Practice in UX
 email: dilsemonk@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Documenting my journey of mastering UX design, one component at a time. 
-Join me as I build, learn, and grow through daily practice.
+description: >-
+  Documenting my journey of mastering UX design, one component at a time. 
+  Join me as I build, learn, and grow through daily practice.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dilsemonk
