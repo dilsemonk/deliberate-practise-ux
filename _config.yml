@@ -20,11 +20,10 @@
 
 title: Deliberate Practice in UX
 email: dilsemonk@gmail.com
-description: >-
-  Documenting my journey of mastering UX design, one component at a time. 
-  Join me as I build, learn, and grow through daily practice.
+description: "Documenting my journey of mastering UX design, one component at a time. 
+  Join me as I build, learn, and grow through daily practice."
 baseurl: "/deliberate-practice-UX"
-url: "url: "https://dilsemonk.github.io"
+url: "url: "https://dilsemonk.github.io" 
 github_username:  dilsemonk
 
 # Build settings
